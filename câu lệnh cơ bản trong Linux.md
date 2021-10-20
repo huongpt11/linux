@@ -1,5 +1,5 @@
 
-# các câu lệnh Linux cơ bản
+# Các câu lệnh Linux cơ bản
 
 ## 1. **pwd**: tìm ra con đường dẫn đến thư mục đang làm việc hiện tại (đường đi của tất cả thư mục bắt đầu bằng dấu gạch chéo /).
 
