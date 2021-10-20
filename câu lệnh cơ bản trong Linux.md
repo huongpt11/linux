@@ -3,7 +3,7 @@
 
 1. **pwd**: tìm ra con đường dẫn đến thư mục đang làm việc hiện tại (đường đi của tất cả thư mục bắt đầu bằng dấu gạch chéo /).
 
-2. **cd**: để di chuyển đến các tập tin hoặc thư mục.
+2. **cd**: để di chuyển đến các tập tin hoặc thư mục.  
   + cd.. : di chuyển một thư mục lên.
   + cd : đi thẳng đến thư mục chính.
   + cd- : đi đến thư mục trước đó.
@@ -32,6 +32,11 @@
 18. **tail** : hiển thị 10 dofnh cuối cùng trong tập tin văn bản.
 19. **diff** : so sánh nội dung hai tệp tin bằng dòng và xuất ra các dòng không khớp.
 20. **tar** : lưu nhiều tệp tin thành một tập tin định dạng chung của Linux (giống zip, nén tùy chọn).
+21. **ping** : kiểm tra trạng thái kết nối với máy chủ.
+22. **history**: xem lại lệnh đã dùng trước.
+23. **echo** : di chuyển dữ liệu vào tệp tin.
+24. **zip, unzip** : nén và giải nén dữ liệu.
+ 
 
 
 
