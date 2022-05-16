@@ -2,6 +2,7 @@
 # Các câu lệnh Linux cơ bản
 
 ## 1. **pwd**: tìm ra con đường dẫn đến thư mục đang làm việc hiện tại (đường đi của tất cả thư mục bắt đầu bằng dấu gạch chéo /).
+![image](https://user-images.githubusercontent.com/92317572/168561800-64a04e0a-6c7e-4ff2-973a-db164c70986b.png)
 
 ## 2. **cd**: để di chuyển đến các tập tin hoặc thư mục.  
   + cd.. : di chuyển một thư mục lên.
