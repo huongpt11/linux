@@ -8,14 +8,20 @@
   + cd.. : di chuyển một thư mục lên.
   + cd : đi thẳng đến thư mục chính.
   + cd- : đi đến thư mục trước đó.
+![image](https://user-images.githubusercontent.com/92317572/168562257-36cc96f2-a7e2-40ae-b5a4-1e4e7d0417c4.png)
 
-## 3. **is** : xem nội dung của thư mục.
-+ is -R : liệt kê tất cả các tập tin trong thư mục con.
-+ is -a : hiển thị tất cả các tập tin bị ẩn.
-+ is -al : liệt kê tất cả tập tin và thư mục có đầy đủ thông tin chi tiết.
+## 3. **ls** : xem nội dung của thư mục.
++ ls -R : liệt kê tất cả các tập tin trong thư mục con.
++ ls -a : hiển thị tất cả các tập tin bị ẩn.
+![image](https://user-images.githubusercontent.com/92317572/168562886-ffbde31e-416f-4a26-94ba-e2d0c08cfb75.png)
++ ls -al : liệt kê tất cả tập tin và thư mục có đầy đủ thông tin chi tiết.
+![image](https://user-images.githubusercontent.com/92317572/168563057-51eb4a45-d3a2-4b29-8d13-d1f03c0b75e7.png)
+
 ## 4. **cat** : liệt kê nội dung của một của một tập tin theo tiêu chuẩn đầu ra.
 
 + cat > filename : tạo ra tập tin mới.
+![image](https://user-images.githubusercontent.com/92317572/168563363-7e3071fa-5df8-4cd2-86d7-8c92890a8952.png)
+
 + cat filename1 filename2 > filename3 : nối hai tập tin 1 và 2 vào tập tin mới 3.
 ## 5. **cp** : sao chép tập tin từ thư mục hiện tại sang thư mục khác.
 ## 6. **mv** : di chuyển hoặc đổi tên tập tin.
