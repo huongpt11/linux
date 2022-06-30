@@ -7,4 +7,3 @@ linux basic
 4. git add .
 5. git commit -m "first commit"
 6. git push origin + name branch
-7. 
